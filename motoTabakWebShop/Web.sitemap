@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0">
+  <siteMapNode url="/" title="Početna" description="Početna strana" xmlns="">
+    <siteMapNode url="/lista-zelja" title="Lista želja" description="Lista želja" />
+    <siteMapNode url="/moj-nalog" title="Moj nalog" description="Moja nalog" />
+    <siteMapNode url="/korpa" title="Korpa" description="Korpa" />
+    <siteMapNode url="/porucivanje" title="Poručivanje" description="Poručivanje" />
+    <siteMapNode url="/kontakt" title="Kontakt" description="Kontakt" />
+    <siteMapNode url="/prijava" title="Prijava" description="Prijava" />
+    <siteMapNode url="/registracija" title="Registracija" description="Registracija" />
+    <siteMapNode url="/proizvodi/" title="Skuteri" description="Skuteri" />
+  </siteMapNode>
+</siteMap>
